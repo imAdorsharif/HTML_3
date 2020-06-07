@@ -1,2 +1,4 @@
 # HTML_3
-Home work related table &amp; form.
+Table and form related homework.
+
+https://imadorsharif.github.io/HTML_3/
